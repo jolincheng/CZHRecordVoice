@@ -1,7 +1,7 @@
 # CZHRecordVoice
 录音功能，加上录音动画，录音文件会转换成amr文件减小上传文件大小
 
-![这里写图片描述](https://img-blog.csdn.net/20180904163111392?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0h1cnJ5VXBDaGVuZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![QQ20180904-162322zxczx.gif](https://upload-images.jianshu.io/upload_images/6709174-8e2e82cee9d630ee.gif?imageMogr2/auto-orient/strip)
 
 试用起来很方便，封装好了，各种代理方法处理
 
